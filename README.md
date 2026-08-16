@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Brandon 👋
 
-<!--
-**brandonshiwmangal/brandonshiwmangal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🪖 U.S. Army E-5 | Network & ML Engineer  
+📍 Frankfurt, Germany  
+🎓 B.S. AI Development @ UMGC | Google Professional ML Engineer (in progress)
+🎓 M.S. AI Development @ UMGC (in progress)
 
-Here are some ideas to get you started:
+## 🔧 What I Work With
+- **Languages:** Python · SQL · Bash · R (learning)
+- **ML/AI:** Scikit-learn · TensorFlow · Vertex AI · RAG systems
+- **Cloud:** Google Cloud Platform (GCP) · Kubernetes · Docker
+- **Networking:** Cisco (CCNA-level) · VLANs · VoIP · DNS
+- **Tools:** Jupyter · Cursor · Linux CLI · GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Goals
+- 📜 Google Professional ML Engineer Certification
+- ☁️ Deepen GCP + Kubernetes/MLOps skills
+- 🎓 Complete B.S. in AI Development → M.S. (Purdue or UMGC)
+
+## 📌 Interests
+`Machine Learning` `MLOps` `Cloud Infrastructure` `Network Security` `Explainable AI` `Data Pipelines`

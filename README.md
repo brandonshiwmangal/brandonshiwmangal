@@ -15,7 +15,6 @@
 ## 🚀 Current Goals
 - 📜 Google Professional ML Engineer Certification
 - ☁️ Deepen GCP + Kubernetes/MLOps skills
-- 🎓 Complete M.S. in AI Applications
-
+- 🎓 Complete M.S. in Applied AI 
 ## 📌 Interests
 `Machine Learning` `MLOps` `Cloud Infrastructure` `Network Security` `Explainable AI` `Data Pipelines`

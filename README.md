@@ -3,7 +3,7 @@
 🪖 U.S. Army E-5 | Network & ML Engineer  
 📍 Frankfurt, Germany  
 🎓 B.S. AI Development @ UMGC | Google Professional ML Engineer (in progress)
-🎓 M.S. AI Development @ UMGC (in progress)
+🎓 M.S. AI Applications @ UMGC (in progress)
 
 ## 🔧 What I Work With
 - **Languages:** Python · SQL · Bash · R (learning)
@@ -15,7 +15,7 @@
 ## 🚀 Current Goals
 - 📜 Google Professional ML Engineer Certification
 - ☁️ Deepen GCP + Kubernetes/MLOps skills
-- 🎓 Complete B.S. in AI Development → M.S. (Purdue or UMGC)
+- 🎓 Complete M.S. in AI Applications
 
 ## 📌 Interests
 `Machine Learning` `MLOps` `Cloud Infrastructure` `Network Security` `Explainable AI` `Data Pipelines`

@@ -3,7 +3,7 @@
 🪖 U.S. Army E-5 | Network & ML Engineer  
 📍 Frankfurt, Germany  
 🎓 B.S. AI Development @ UMGC | Google Professional ML Engineer (in progress)
-🎓 M.S. AI Applications @ UMGC (in progress)
+🎓 M.S. Applied AI @ UMGC (in progress)
 
 ## 🔧 What I Work With
 - **Languages:** Python · SQL · Bash · R (learning)

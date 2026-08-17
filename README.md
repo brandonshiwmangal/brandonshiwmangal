@@ -1,4 +1,4 @@
-# Hey, I'm Brandon 👋
+# Hallo, I'm Brandon 👋
 
 🪖 U.S. Army Sergeant | Network & ML Engineer  
 📍 Frankfurt, Germany  

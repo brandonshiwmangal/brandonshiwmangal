@@ -1,6 +1,6 @@
 # Hey, I'm Brandon 👋
 
-🪖 U.S. Army E-5 | Network & ML Engineer  
+🪖 U.S. Army Sergeant | Network & ML Engineer  
 📍 Frankfurt, Germany  
 🎓 B.S. AI Development @ UMGC | Google Professional ML Engineer (in progress)
 🎓 M.S. Applied AI @ UMGC (in progress)

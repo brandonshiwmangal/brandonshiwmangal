@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=25F763&background=000000&center=true&vCenter=true&width=435&lines=Hallo%2C+I'm+Brandon%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=25F763&background=000000&center=true&vCenter=true&width=435&lines=Hallo%2C+I'm+Brandon%F0%9F%91%8B)](https://git.io/typing-svg)
 
 🪖 U.S. Army Sergeant (25H, Network Communications Systems Specialist) | Network & ML Engineer  
 📍 Based in Frankfurt, Germany

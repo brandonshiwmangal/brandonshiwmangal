@@ -27,10 +27,10 @@ I keep tactical networks running by day and build machine learning projects the 
 
 ## 🧠 Organoid Intelligence (OI)
 
-Organoid intelligence is biocomputing with lab-grown 3D neural tissue (brain organoids) interfaced with electronics. I think it could change where AI goes next, so I'm studying it seriously.
+Organoid intelligence is biocomputing with lab-grown 3D neural tissue (brain organoids) interfaced with electronics. I think it could change where AI goes next, so I'm studying it seriously to prepare for the future.
 
 - 🔬 **Research:** tracking recent OI breakthroughs, the lab and engineering methods behind them, and how OI could shift the trajectory of the AI race
-- 🤖 **Method:** building a multi-agent "expert council" research workflow, with LLM teams for neuroscience, biology, ML engineering, electrical and computer engineering, ethics, environment, data, and finance that fact-check their own sections before a project-manager agent consolidates one report
+- 🤖 **Possibilities:** there could be numerous applications of using OI to exceed computational power to compensate for the energy demands of conventional AI.
 
 ---
 

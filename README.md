@@ -2,8 +2,6 @@
 
 🪖 U.S. Army Sergeant (25H, Network Communications Systems Specialist) | Network & ML Engineering Student 
 
-📍 Based in Frankfurt, Germany
-
 I keep tactical networks running by day and build machine learning projects the rest of the time. My goal is to bridge the two: ML engineering and MLOps on top of solid infrastructure.
 
 ### 🎓 Education & Certifications

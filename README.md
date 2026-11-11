@@ -9,6 +9,8 @@ I keep tactical networks running by day and build machine learning projects the 
 - 🎓 B.S. AI Development @ UMGC
 - 🎓 M.S. Applied AI @ UMGC (in progress)
 - 📜 Google Professional Machine Learning Engineer (in progress)
+- 📜 CompTIA Security+ (in progress)
+- 📜 CCNA (in progress)
 
 ---
 

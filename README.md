@@ -58,4 +58,4 @@ Organoid intelligence is biocomputing with lab-grown 3D neural tissue (brain org
 
 ---
 
-📫 **Connect:** [STAgGYNITE](https://github.com/STAgGYNITE) | brandonshiwmangal@gmail.com
+📫 **Connect:** brandonshiwmangal@gmail.com

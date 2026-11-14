@@ -37,7 +37,8 @@ Organoid intelligence is biocomputing with lab-grown neural tissue interfaced wi
 
 ## 🔧 What I Work With
 
-- 🐍 **Languages:** Python, SQL, Bash, Go (learning), R (learning)
+- 🐍 **Programming Languages:** Python, Go (learning), R (learning)
+-     **Scripting Language** 
 - 🤖 **ML/AI:** scikit-learn, TensorFlow, Vertex AI, RAG systems
 - ☁️ **Cloud & Containers:** Google Cloud Platform (GCP), Kubernetes, Docker
 - 🌐 **Networking:** Cisco IOS (CCNA-level), VLANs, OSPF, PIM, ACLs, STP, RADIUS, SSH, VoIP, DNS
